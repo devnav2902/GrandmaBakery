@@ -2,9 +2,8 @@
 #content {
     width: 100%;
     min-height: 100vh;
-    background: url(images/cake.jpeg) center/cover;
+    background: url(images/cake.jpg) center/cover;
     background-attachment: fixed;
-    color: #black;
     text-align:center;
 }
 a {
@@ -45,11 +44,29 @@ p{
     flex: 1;
     border-radius: 50%;
 }
+.shoppingCart {
+    border: 1px solid lightblue;
+    border-radius: 10px;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    background: url(https://image.freepik.com/free-vector/abstract-colorful-flow-shapes-background_23-2148258092.jpg);
+}
 .cart_item {
     display: flex;
     justify-content: space-between;
     margin: 1rem 10px;
+    border: 2px solid white;
+    padding: 0.5rem;
+    border-radius: 10px;
+    background: #00caba;
+    transition: 0.4s;
+    cursor: pointer;
 }
+.cart_item:hover {
+    background: lightsalmon;
+}
+
+
 .cart_item img {
     width: 50px;
     height: 50px;
