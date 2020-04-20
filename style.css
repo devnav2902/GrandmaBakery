@@ -269,7 +269,6 @@ h3.us b,h3.name b {
     content: '';
     color: red;
 }
-
 @media screen and (max-width: 800px){
     .modal_box {
         display: none;
