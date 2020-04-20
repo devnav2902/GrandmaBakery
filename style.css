@@ -1,6 +1,6 @@
 *{margin: 0;padding: 0;box-sizing: border-box!important;}
 body {
-    font-family: 'Passion One', cursive;
+    font-family: 'Passion One', cursive!important;
 }
 #content {
     width: 100%;
@@ -93,7 +93,7 @@ p{
 }
 h3.name {
     margin-top: 12rem;
-    color: lime;
+    color: #ffffff;
 }
 h3.us {
     font-size: 2.5rem;
