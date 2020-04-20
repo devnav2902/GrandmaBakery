@@ -2,7 +2,7 @@
 #content {
     width: 100%;
     min-height: 100vh;
-    background: url(https://images.unsplash.com/photo-1561527090-a1e625ff3cc6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80) center/cover;
+    background: url(https://images.unsplash.com/photo-1549398164-0963221d3dcc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80) center/cover;
     background-attachment: fixed;
     text-align:center;
 }
